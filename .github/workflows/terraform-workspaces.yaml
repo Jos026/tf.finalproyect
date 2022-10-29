@@ -1,4 +1,4 @@
-#YAML
+#YAML test
 name: Terraform Workspaces
 
 on:
