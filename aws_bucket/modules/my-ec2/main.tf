@@ -1,4 +1,4 @@
-resource "aws_instance" "plantilla-ec2" {
+resource "aws_instance" "proyecto" {
     ami = var.myAmi
     instance_type = var.myInstanceType
 
